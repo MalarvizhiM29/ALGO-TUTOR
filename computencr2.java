@@ -1,12 +1,12 @@
-public class computencr1 {
+public class computencr2 {
     public static void main(String[] args) {
         int n = 5;
         int r = 2;
-        int m = 13;
+        int p = 13;
         int fact1 = factorial(n);
         int fact2 = factorial(r);
         int fact3 = factorial(n - r);
-        System.out.println(((int) fact1 / (fact3 * fact2)) % m);
+        System.out.println(((int) fact1 / (fact3 * fact2)) % p);
     }
 
     private static int factorial(int n) {

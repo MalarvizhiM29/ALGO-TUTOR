@@ -1,2 +1,2 @@
-# ALGOTUTOR-Assignment-1
+# ALGO-TUTOR
 Homeworks and Assignments

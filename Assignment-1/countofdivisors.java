@@ -1,5 +1,4 @@
-
-public class Main {
+public class countofdivisors {
     public static void main(String[] args) {
         int arr[] = { 2, 3, 4, 5 };
         int ans[] = new int[arr.length];
